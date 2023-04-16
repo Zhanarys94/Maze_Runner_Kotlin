@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Maze Runner (Kotlin)/task/build/
+/Maze Runner (Kotlin)/task/build/classes/java/test/
